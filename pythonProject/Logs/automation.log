@@ -1,0 +1,9 @@
+
+2022-07-14 17:17:01,263 - [INFO] - utilities.customLogger - (LoginPage.py).search(33) - Apple iPhone 11 (128GB) - Purple : Amazon.in: Electronics
+2022-07-14 17:17:06,416 - [INFO] - utilities.customLogger - (LoginPage.py).search(49) - {'iphone': {'Model Name': 'IPhone 11', 'Memory Storage Capacity': '128 GB'}}
+2022-07-14 17:17:06,419 - [INFO] - utilities.customLogger - (test_login.py).test_login(20) - Apple iPhone 11 (128GB) - Purple : Amazon.in: Electronics
+2022-07-14 17:17:06,420 - [INFO] - utilities.customLogger - (test_login.py).test_login(22) - ***********************test_login is passed******************
+2022-07-14 17:17:50,105 - [INFO] - utilities.customLogger - (LoginPage.py).search(33) - Apple iPhone 11 (128GB) - Purple : Amazon.in: Electronics
+2022-07-14 17:17:55,289 - [INFO] - utilities.customLogger - (LoginPage.py).search(49) - {'iphone': {'Model Name': 'IPhone 11', 'Memory Storage Capacity': '128 GB'}}
+2022-07-14 17:17:55,294 - [INFO] - utilities.customLogger - (test_login.py).test_login(20) - Apple iPhone 11 (128GB) - Purple : Amazon.in: Electronics
+2022-07-14 17:17:55,295 - [INFO] - utilities.customLogger - (test_login.py).test_login(22) - ***********************test_login is passed******************
